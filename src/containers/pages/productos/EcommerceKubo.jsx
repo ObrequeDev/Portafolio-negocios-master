@@ -19,7 +19,7 @@ function EcommerceKubo() {
                     <div className="p-4 relative block w-full bg-white  rounded-lg overflow-hidden">
                         <img
                             className="w-full"
-                            src="https://equantum.s3.sa-east-1.amazonaws.com/images/ecommerce.PNG"
+                            src="https://drive.google.com/uc?id=1O58p-eLdWS9VwGXYNIT1zaFdxSD_yE42"
                             alt=""
                         />
                     </div>
@@ -42,7 +42,7 @@ function EcommerceKubo() {
                         <div className="p-4 relative block w-full bg-white  rounded-lg overflow-hidden">
                             <img
                                 className="w-full"
-                                src="https://equantum.s3.sa-east-1.amazonaws.com/images/landing+ecommerce+kubo/captura+2.PNG"
+                                src="https://drive.google.com/uc?id=1n6tPQl_90T9lbMQih4t_Eezi8yqTwMgV"
                                 alt=""
                             />
                         </div>
@@ -65,7 +65,7 @@ function EcommerceKubo() {
                         <div className="p-4 relative block w-full bg-white   rounded-lg overflow-hidden">
                             <img
                                 className="w-full mt-[35px]"
-                                src="https://equantum.s3.sa-east-1.amazonaws.com/images/landing+ecommerce+kubo/Captura+3.PNG"
+                                src="https://drive.google.com/uc?id=1rTd5Jgy3YqP_TPSKlrgt9OCZP06qG_bs"
                                 alt=""
                             />
                         </div>
@@ -75,7 +75,7 @@ function EcommerceKubo() {
                         <div className="p-4 relative block w-full bg-white  rounded-lg overflow-hidden">
                             <img
                                 className="w-full"
-                                src="https://equantum.s3.sa-east-1.amazonaws.com/images/landing+ecommerce+kubo/Captura+4.PNG"
+                                src="https://drive.google.com/uc?id=1VTNKk-zCilZ67h7XXPxdF8t6YoAMKtn9"
                                 alt=""
                             />
                         </div>

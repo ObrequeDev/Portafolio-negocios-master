@@ -13,9 +13,9 @@ const tabs = [
                 name: 'Plataforma de venta de productos',
                 description:
                     'Ecommerce donde podras realizar ventas de cualquier tipo de producto utilizando metodos de pago como paypal o directamente con tu banco.',
-                imageSrc: 'https://equantum.s3.sa-east-1.amazonaws.com/images/ecommerce.PNG',
+                imageSrc: 'https://drive.google.com/uc?id=1O58p-eLdWS9VwGXYNIT1zaFdxSD_yE42',
                 imageAlt: '',
-                url: 'https://lotengovip.com',
+                url: '/producto/ecommerce-kubo',
                 tech_stack: [
                     {
                         name: 'Django Rest Framework',
@@ -116,7 +116,7 @@ const people = [
     {
         name: 'Exequiel Sanchez',
         role: 'Founder / CEO',
-        imageUrl: 'https://equantum.s3.sa-east-1.amazonaws.com/images/exequiel.jpg',
+        imageUrl: 'https://drive.google.com/uc?id=1pERjZG4hzltmifwe33Xu3l1gBwIfGpFD',
         bio: 'Soy Exequiel Sanchez, estudie programacion hace un par de años y aun sigo aprendiendo. Me gusta la creacion de paginas web con Django y React.',
         freelancerUrl: 'https://www.freelancer.cl/u/Andrenomicos',
         linkedinUrl: 'https://www.linkedin.com/in/exequiel-sanchez-obreque-b6522b214/',

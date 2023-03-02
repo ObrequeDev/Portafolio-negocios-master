@@ -10,7 +10,7 @@ function Productos() {
 
                 <Link to="/producto/ecommerce-kubo" className="flex flex-col rounded-lg shadow-lg overflow-hidden mb-[2rem]">
                     <div className="flex-shrink-0">
-                        <img className="h-48 w-full object-cover" src="https://equantum.s3.sa-east-1.amazonaws.com/images/ecommerce.PNG" alt="" />
+                        <img className="h-48 w-full object-cover" src="https://drive.google.com/uc?id=1O58p-eLdWS9VwGXYNIT1zaFdxSD_yE42" alt="" />
                     </div>
                     <div className="flex-1 bg-white dark:bg-dark-main p-6 flex flex-col justify-between">
                         <div className="flex-1">
